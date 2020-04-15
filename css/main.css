@@ -1,0 +1,55 @@
+header {
+  background-image:url(https://video-images.vice.com/_uncategorized/1498823517257-chronixx-2.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-position: top center;
+  height: 80%;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Abel', sans-serif;
+  font-size: 5em;
+  color: yellow;
+  background: black;
+  width: 325px;
+  margin-left: 60px;
+}
+
+h2 {
+  font-size: 2em;
+  color: green;
+  background: black;
+  width: 220px;
+  margin-left: 100px;
+}
+
+h3 {
+  font-size: 1.5em;
+  color: red;
+  padding-left: 50px;
+  padding-top: 25px;
+}
+
+p {
+  font-family: 'Abel', sans-serif;
+  padding-top: 25px;
+  font-size: 1.2em;
+}
+
+.quote {
+  margin-top: 300px;
+  margin-left: 80px;
+  width: 300px;
+  font-size: 1.5em;
+  color: red;
+  font-weight: bold;
+}
+
+.text-center {
+  font-size: 0.75em;
+}
